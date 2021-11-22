@@ -1,5 +1,3 @@
-# Future
-
 This is the project of group 13 in 'Machine Learning and Application course' held at Yonsei University 2018 - 2.
 
 Our team made diagnosing cancer model using simple machine learning algorighms.

@@ -1,2 +1,2 @@
 # Yonsei-Univ
-# Undergraduate/Graduate
+Undergraduate/Graduate
